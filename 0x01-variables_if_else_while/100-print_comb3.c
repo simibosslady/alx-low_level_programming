@@ -9,15 +9,15 @@ int main(void)
 int n = '0';
 int m = '0';
 
-while (n <= '7')
+while (n <= '8')
 {
-while (m <= '8')
+while (m <= '9')
 {
 if (n < m)
 {
 putchar(n);
 putchar(m);
-if (!(n == '7' && m == '8'))
+if (!(n == '8' && m == '9'))
 {
 putchar(',');
 putchar(' ');
