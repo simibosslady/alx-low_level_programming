@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main  - print its name
+ * main - print its name
  * @argc: argunent count
  * @argv: argumeqnt vector
- * Return : Nothing
+ * Return: Always zero
  */
 
 int main(int argc, char *argv[])
